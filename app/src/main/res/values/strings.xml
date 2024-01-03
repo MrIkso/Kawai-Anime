@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kawai Anime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="manga">Manga</string>
+    <string name="explore">Explore</string>
+    <string name="library">Library</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="search_anime">Search Anime</string>
+    <string name="search_manga">Search Manga</string>
+    <string name="top_airing">Top Airing</string>
+    <string name="status">Status</string>
+    <string name="description">Description</string>
+    <string name="dummy_text">In a world of mystical and powerful enemies lurk in every nation, a legendary Nine-Tailed Demon Fox attacked the ninja village Konoha, killing many innocent people. In response of a desperate measure from the people, the leader of the village – the Fourth Hokage – sacrificed his life to defeat the demon fox. By sacrificing his own life, he sealed the demon fox into a very young boy named, Naruto Uzumaki. Naruto has lost his parents during the attack. He grew up in the village and was mistreated badly by everyone in town.\n\nWith his loud mouth and careless attitude, he is determined to become the greatest ninja, hokage, in his village. Along with friends, and hope, Naruto trains to become a better ninja than expected.</string>
+    <string name="info">Info</string>
+    <string name="animeInfo">Title </string>
+    <string name="total_episodes">Total Episodes</string>
+    <string name="other_name">ナルト</string>
+    <string name="released_date">Released Date</string>
+    <string name="genres">Genres</string>
+    <string name="recent_episodes">Recent Episodes</string>
+    <string name="results">Results</string>
+</resources>
